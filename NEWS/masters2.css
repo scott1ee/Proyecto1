@@ -51,28 +51,3 @@
     color: #FFFFFF;
 }
 
-.article 
-{
-    padding: 20px;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-.section
-{
-    float: center;
-    padding: 1px 400px 400px 400px;
-    display: block;
-}
-
-.section img 
-{
-    width: 50%;
-    padding-left: 250px;
-}
-
-a
-{
-    float: left;
-    display: block;
-}
